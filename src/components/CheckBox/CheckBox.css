@@ -1,0 +1,10 @@
+.Container{
+    background-image: linear-gradient(skyblue,yellow);
+    height: 65vh;
+    
+     
+}
+.result{
+     color: black;
+     background-color: darkgreen;
+}
